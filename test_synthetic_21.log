@@ -1,0 +1,26 @@
+PLINK v1.90b6.25 64-bit (5 Mar 2022)
+Options in effect:
+  --bfile EGAZ00001588936_CINECA_Test.1000G.phase3.plink
+  --chr 21
+  --make-bed
+  --out test_synthetic_21
+
+Hostname: hpc-build.scidom.de
+Working directory: /lustre/groups/itg/teams/data-informatics/projects/plink_cineca_synthetic/plink_files
+Start time: Tue Mar 15 12:26:22 2022
+
+Random number seed: 1647343582
+386305 MB RAM detected; reserving 193152 MB for main workspace.
+1105538 out of 84739838 variants loaded from .bim file.
+2504 people (0 males, 0 females, 2504 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to test_synthetic_21.nosex .
+Using 1 thread (no multithreaded calculations invoked).
+Before main variant filters, 2504 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Total genotyping rate is 0.98705.
+1105538 variants and 2504 people pass filters and QC.
+Note: No phenotypes present.
+--make-bed to test_synthetic_21.bed + test_synthetic_21.bim +
+test_synthetic_21.fam ... done.
+
+End time: Tue Mar 15 12:26:33 2022
