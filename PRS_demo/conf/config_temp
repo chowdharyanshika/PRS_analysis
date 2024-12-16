@@ -1,0 +1,10 @@
+
+
+  process.container = 'file:///lustre/groups/itg/teams/data-informatics/projects/plink_cineca_synthetic/PRS_wf/containers/PRS_new.sif'
+  singularity.enabled = true
+  singularity.autoMounts = true
+  singularity.cacheDir = "$PWD"
+  
+
+
+

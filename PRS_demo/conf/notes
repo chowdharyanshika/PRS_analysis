@@ -1,0 +1,3 @@
+
+input params  maf, geno, 
+inout dir output dir gas filegwas params; effect elle, chr, pos, maf, beta, stat, out  
